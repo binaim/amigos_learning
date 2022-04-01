@@ -1,5 +1,11 @@
 dafdfdffgsfgfgfgsfg
 how to use git pull
+<<<<<<< HEAD
 trying rebase function
 
 thank you
+=======
+fdfdsjfkdshfklsd
+dfsdfhsdiofsdf
+song
+>>>>>>> 4b63a86 (in main)
